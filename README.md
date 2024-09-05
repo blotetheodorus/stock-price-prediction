@@ -1,4 +1,6 @@
-# Stock price prediction using ARIMA and LSTM neural networks.
+# stock-price-prediction
+
+Stock price prediction using ARIMA and LSTM neural networks.
 
 ## Overview
 
